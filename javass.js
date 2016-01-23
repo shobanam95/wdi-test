@@ -1,6 +1,6 @@
 
 
- // Task 1 - THE AGE CALCULATOR
+ // Task 1 - THE AGE C ALCULATOR
  
    function caculateAge(birthYear, currentYear) {
        if (birthYear !== "" && currentYear !== "") {
